@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 #@TODO: create a function to get the interface, create windows program with tkinter
+#@TODO: print the MAC number and IP of the atacker
 
 import scapy.all as scapy
 
