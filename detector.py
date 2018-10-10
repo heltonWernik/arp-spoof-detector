@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#@TODO: create a function to get the interface, create windows program with tkinter
 
 import scapy.all as scapy
 
